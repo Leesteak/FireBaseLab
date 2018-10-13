@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">28104921393-31i8cg2c54tulki3dp6cqkf3rvo7umf5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fir-labpart2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">28104921393</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzys-OzbAlJb4pneXgX4G275pMwXz5xDo</string>
+    <string name="google_app_id" translatable="false">1:28104921393:android:aadfeba8c26d67fc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzys-OzbAlJb4pneXgX4G275pMwXz5xDo</string>
+    <string name="google_storage_bucket" translatable="false">fir-labpart2.appspot.com</string>
+    <string name="project_id" translatable="false">fir-labpart2</string>
+</resources>
